@@ -24,5 +24,8 @@
   "devDependencies": {
     "lerna": "^3.14.1",
     "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "gatsby-source-sanity": "^5.0.4"
   }
 }
